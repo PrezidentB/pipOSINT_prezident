@@ -82,7 +82,7 @@ export default {
 @import url(./../assets/main.scss);
 
 .container {
-  padding-top: 25rem;
+  padding-top: 23%;
   align-items: center;
   padding-bottom: 20rem;
   .sub-container {
